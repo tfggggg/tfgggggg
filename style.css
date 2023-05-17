@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.rule{
+    background-image: url('rule_background.jpg'); 
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.title{
+    font-size: 50px;
+    left: 280px;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.word{
+    outline: 1px solid;
+    text-align: center;
+    border-style: solid;
+    background-color: rgb(11, 38, 125) center;
+    width: 300px;
+}
+
+.classroom{
+    background-image: url('classroom.jpg'); 
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    top: 30px;
+}
+.bathroom{
+    background-image: url('bathroom.jpg'); 
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    top: 160px;
+    left: 300px;
+}
