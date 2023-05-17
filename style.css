@@ -4,7 +4,7 @@ html, body{
     height: 100%;
     width: 100%;
 }
-.rule{
+body{
     background-image: url('rule_background.jpg'); 
 	background-repeat: no-repeat;
     background-position: center;
@@ -24,8 +24,10 @@ html, body{
     outline: 1px solid;
     text-align: center;
     border-style: solid;
-    background-color: rgb(11, 38, 125) center;
+    background-color: rgb(11, 38, 125);
     width: 300px;
+    position: absolute;
+    top: 1000px;
 }
 
 .classroom{
@@ -42,4 +44,8 @@ html, body{
     background-size: contain;
     top: 160px;
     left: 300px;
+}
+a{
+    text-decoration: none;
+    color:rgb(11, 38, 125);
 }
