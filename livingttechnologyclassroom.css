@@ -1,0 +1,23 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-image: url('LTchair.jpg'); 
+	background-repeat: no-repeat;
+    background-position:left top;
+    background-position: 20px 350px;
+    background-size: 30%;
+}
+.checkdesk{
+    outline: 1px solid;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    position: absolute;
+    top: 580px;
+    left: 200px;
+    font-size: xx-large;
+}   
