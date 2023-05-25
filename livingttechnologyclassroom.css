@@ -5,19 +5,48 @@ html, body{
     width: 100%;
 }
 body{
-    background-image: url('LTchair.jpg'); 
+    background-image: url('background.jpg'); 
 	background-repeat: no-repeat;
-    background-position:left top;
-    background-position: 20px 350px;
-    background-size: 30%;
+    background-position:center;
+    background-size: cover;
 }
 .checkdesk{
+    position: absolute;
+    top: 650px;
+    left: 640px;
+    font-size: xx-large;
+    background-color: rgb(233, 235, 134);
+}   
+.LTblackboard{
+    border-style: solid;
+    background-color: rgb(90, 116, 98);
+    width: 890px;
+    height: 280px;
+    position: absolute;
+    top: 100px;
+    left: 310px;
+    font-size: xx-large;
+    text-align: center;
+}
+#teacher{
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+.askteacher{
+    position: absolute;
+    top: 300px;
+    left: 1050px;
+    font-size: xx-large;
+    background-color: rgb(233, 235, 134);
+}
+.nextplace{
     outline: 1px solid;
     border-style: solid;
-    background-color: rgb(255, 255, 255);
-    width: 200px;
+    background-color: rgb(222, 152, 152);
+    width: 160px;
     position: absolute;
-    top: 580px;
-    left: 200px;
+    top: 600px;
+    left: 1300px;
     font-size: xx-large;
-}   
+}
