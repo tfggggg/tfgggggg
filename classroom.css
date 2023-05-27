@@ -1,0 +1,13 @@
+#backpack{
+    height:170px;
+    width:170px;
+    position:absolute;
+    top:700px;
+    right: 920px;
+  }
+  #button{
+    position:absolute;
+    top:840px;
+    right:870px;
+  }
+  
