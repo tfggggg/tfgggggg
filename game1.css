@@ -1,0 +1,66 @@
+body {
+    background-image: url("game1.png");
+    background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+}
+.A {
+    background-color: rgb(17, 246,173);
+    border-style: none;
+    border-radius: 12px;
+    width: 100px;
+    font-family: Arial;
+    font-size: 50px;
+    position: absolute;
+    left: 65%;
+    top: 30%;
+    text-align: center;
+}
+.B {
+    background-color: rgb(17, 246,173);
+    border-style: none;
+    border-radius: 12px;
+    width: 100px;
+    font-family: Arial;
+    font-size: 50px;
+    position: absolute;
+    left: 65%;
+    top: 45%;
+    text-align: center;
+}
+.C {
+    background-color: rgb(17, 246,173);
+    border-style: none;
+    border-radius: 12px;
+    width: 100px;
+    font-family: Arial;
+    font-size: 50px;
+    position: absolute;
+    left: 65%;
+    top: 60%;
+    text-align: center;
+}
+.D {
+    background-color: rgb(17, 246,173);
+    border-style: none;
+    border-radius: 12px;
+    width: 100px;
+    font-family: Arial;
+    font-size: 50px;
+    position: absolute;
+    left: 65%;
+    top: 75%;
+    text-align: center;
+}
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;}

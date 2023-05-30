@@ -1,0 +1,40 @@
+body {
+    background-image: url("cc.jpg");
+    background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+}
+#back{
+    position: absolute;
+    margin-top:  57%;
+    left: 0.5%;
+    font-size: large;
+    background-color: rgb(233, 235, 134);
+  }  
+  #box{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    margin-top:  27%;
+    left: 50%;
+  } 
+  #ccteacher{
+    position: absolute;
+    margin-top:  5%;
+    left: 5%;
+}
+#ask{
+        position: absolute;
+        top: 30%;
+        left: 20%;
+        font-size: x-large;
+        background-color: rgb(233, 235, 134);
+    }   
+#lost{
+    position: absolute;
+    margin-top:42%;
+    left: 65%;
+    font-size: large;
+    background-color: rgb(233, 235, 134);
+}

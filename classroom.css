@@ -1,0 +1,24 @@
+body {
+  background-image: url("background.jpg");
+}
+#backpack{
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 28%;
+}
+#button{
+  position: absolute;
+  margin-top:  58%;
+  left: 37%;
+  font-size: large;
+  background-color: rgb(233, 235, 134);
+}   
+#back{
+  position: absolute;
+  margin-top:  58%;
+  left: 1%;
+  font-size: large;
+  background-color: rgb(233, 235, 134);
+}   
