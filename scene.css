@@ -5,3 +5,45 @@ body {
             background-position: center;
             background-size: cover;
 }
+#classroom{
+    position: absolute;
+    top: 33%;
+    left: 40%;
+    font-size: x-large;
+    background-color: rgb(233, 235, 134);
+}   
+#cc{
+    position: absolute;
+    top: 16.5%;
+    left: 55.5%;
+    font-size: x-large;
+    background-color: rgb(233, 235, 134);
+}   
+#library{
+    position: absolute;
+    top: 29%;
+    left: 55.25%;
+    font-size: x-large;
+    background-color: rgb(233, 235, 134);
+}
+#ltc{
+    position: absolute;
+    top: 5.7%;
+    left: 68%;
+    font-size: x-large;
+    background-color: rgb(233, 235, 134);
+}
+#restroom{
+    position: absolute;
+    top: 33%;
+    left: 84%;
+    font-size: x-large;
+    background-color: rgb(233, 235, 134);
+}
+#sq{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    font-size: x-large;
+    background-color: rgb(233, 235, 134);
+}
